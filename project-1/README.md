@@ -17,6 +17,8 @@ We can identify code in a paragraph using the backquote character the backquote 
 
 Lists are simply line items prepended with dashes to create an unordered list or numbers to create an ordered list.
 
+This is another line of text.
+
 - list item 1
 - list item 2
 
