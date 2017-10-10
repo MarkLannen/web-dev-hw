@@ -10,6 +10,7 @@
 1. Corresponded with Justine on Slack and finally worked out how to submit homework.  :)
 2. Updated README.md file and published to github.
 3. Had cursory search around internet to get idea for what images/videos I can use as part of instructable.
+<<<<<<< HEAD
 
 ## Sunday, Oct. 8 updates:
 1. Added images and other required html to instructions page.
@@ -17,3 +18,5 @@
 3. Atom crashes regularly (sometimes every few minutes) which is extremely frustrating as it can take a very long time to get anything done.
 4. Still not really clear exactly how projects get submitted. Have made an appointment to see Justine tomorrow for more help.
 5. 
+=======
+>>>>>>> 9ed98f3d0d273a219166aa2e116cd0f021e132fc
