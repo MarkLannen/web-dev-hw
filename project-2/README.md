@@ -17,6 +17,6 @@
 2. Created form page and tried to tried to build a box to enter emails for monthly newsletter subscription.
 3. Atom crashes regularly (sometimes every few minutes) which is extremely frustrating as it can take a very long time to get anything done.
 4. Still not really clear exactly how projects get submitted. Have made an appointment to see Justine tomorrow for more help.
-5. 
+5. Finished form will all required elements on 10/11/17
 =======
 >>>>>>> 9ed98f3d0d273a219166aa2e116cd0f021e132fc
