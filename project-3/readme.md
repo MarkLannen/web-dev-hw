@@ -19,3 +19,11 @@
 ![turqoise](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b1e8eb-8.png)
 ![gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b7b7b7-8.png)
 ![red](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-c70015-8.png)
+
+***Imagery
+
+Phillip Pullmand has some excellent illustrations on his website. I'll use their aesthetic for the general 'feel' of my website.
+![moon](https://github.com/MarkLannenUM/web-dev-hw/blob/master/moon.JPG)
+![oxford](https://github.com/MarkLannenUM/web-dev-hw/blob/master/oxford-1.JPG)
+![skull](https://github.com/MarkLannenUM/web-dev-hw/blob/master/skull.JPG)
+![stone-steps](https://github.com/MarkLannenUM/web-dev-hw/blob/master/stone-steps.JPG)
