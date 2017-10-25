@@ -10,7 +10,10 @@
 
 >Tum Piso: Quoniam igitur aliquid omnes, quid Lucius noster? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Praeclare hoc quidem. Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus; Quae tamen a te agetur non melior, quam illae sunt, quas interdum optines. Ratio quidem vestra sic cogit.
 
-4. I'll use the bio from Phillip Pullman's [personal website](http://www.philip-pullman.com/about)
-5. I'll take my color palette from Mr. Pullmans [personal website](http://www.philip-pullman.com/about) and the online images I've found of the cover of his new novel.
+4. I'll use the bio from Phillip Pullman's [personal-website](http://www.philip-pullman.com/about)
+5. I'll take my color palette from Mr. Pullmans [personal-website](http://www.philip-pullman.com/about) and the online images I've found of the cover of his new novel.
 
-(/images/color_pallete-001816-8.png) (../images/color_pallete-b1e8eb-8.png) (./images/color_pallete-b7b7b7-8.png) (./images/color_pallete-c70015-8.png)
+###Color Palette
+
+[Dark-gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-001816-8.png)
+(../images/color_pallete-b1e8eb-8.png) (./images/color_pallete-b7b7b7-8.png) (./images/color_pallete-c70015-8.png)
