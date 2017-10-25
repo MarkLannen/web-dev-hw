@@ -15,5 +15,5 @@
 
 ###Color Palette
 
-[Dark-gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-001816-8.png)
+![Dark-gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-001816-8.png)
 (../images/color_pallete-b1e8eb-8.png) (./images/color_pallete-b7b7b7-8.png) (./images/color_pallete-c70015-8.png)
