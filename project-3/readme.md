@@ -13,14 +13,14 @@
 4. I'll use the bio from Phillip Pullman's [personal-website](http://www.philip-pullman.com/about)
 5. I'll take my color palette from Mr. Pullmans [personal-website](http://www.philip-pullman.com/about) and the online images I've found of the cover of his new novel.
 
-###Color Palette
+### Color Palette
 
 ![dark-gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-001816-8.png)
 ![turqoise](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b1e8eb-8.png)
 ![gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b7b7b7-8.png)
 ![red](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-c70015-8.png)
 
-***Imagery
+### Imagery
 
 Phillip Pullmand has some excellent illustrations on his website. I'll use their aesthetic for the general 'feel' of my website.
 ![moon](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/moon.JPG)
