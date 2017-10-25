@@ -23,7 +23,7 @@
 ***Imagery
 
 Phillip Pullmand has some excellent illustrations on his website. I'll use their aesthetic for the general 'feel' of my website.
-![moon](https://github.com/MarkLannenUM/web-dev-hw/blob/master/moon.JPG)
+![moon](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/moon.JPG)
 ![oxford](https://github.com/MarkLannenUM/web-dev-hw/blob/master/oxford-1.JPG)
 ![skull](https://github.com/MarkLannenUM/web-dev-hw/blob/master/skull.JPG)
 ![stone-steps](https://github.com/MarkLannenUM/web-dev-hw/blob/master/stone-steps.JPG)
