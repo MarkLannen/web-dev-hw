@@ -20,6 +20,8 @@
 ![gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b7b7b7-8.png)
 ![red](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-c70015-8.png)
 
+I'll use the gray for headings and the dark blue/green for paragraph text. 
+
 ### Imagery
 
 Phillip Pullmand has some excellent illustrations on his website. I'll use their aesthetic for the general 'feel' of my website.
@@ -27,3 +29,7 @@ Phillip Pullmand has some excellent illustrations on his website. I'll use their
 ![oxford](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/oxford-1.JPG)
 ![skull](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/skull.JPG)
 ![stone-steps](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/stone-steps.JPG)
+
+### fonts
+
+I have chosen Crete Rounded for headings, and ABeezee for parapraph text.
