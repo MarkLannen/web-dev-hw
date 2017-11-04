@@ -20,9 +20,13 @@
 ![gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b7b7b7-8.png)
 ![red](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-c70015-8.png)
 
+<<<<<<< HEAD
 I'll use the gray for headings and the dark blue/green for paragraph text.
 
 I'll use the turquoise and red for accents/hover states etc...
+=======
+I'll use the gray for headings and the dark blue/green for paragraph text. 
+>>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
 
 ### Imagery
 
@@ -32,9 +36,12 @@ Phillip Pullmand has some excellent illustrations on his website. I'll use their
 ![skull](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/skull.JPG)
 ![stone-steps](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/stone-steps.JPG)
 
+<<<<<<< HEAD
 I'll also use a cover that I created for the book in my Photoshop class.
 
 
+=======
+>>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
 ### fonts
 
 I have chosen Crete Rounded for headings, and ABeezee for parapraph text.
