@@ -1,6 +1,93 @@
-* {
-  font-family: 'Abeezee', serif;
+
+body {
+  background: #e9e4e4;
+  font-size: 16px;
+  line-height: 1.45em;
 }
+
+p {
+  font-family: 'Crete Round', serif;
+  color: #133436;
+}
+
+p::first-letter {
+  font-size: 2em;
+}
+
 h1 {
   font-family: 'Crete Round', sans-serif;
+  color: #133436;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  background-color: #b1e8eb;
+  padding: 15px;
+
+}
+
+h2 {
+  font-family: 'Crete Round', sans-serif;
+  font-size: 1.25em;
+  color: #cf9d04;
+  margin-bottom: 30px;
+  text-indent: 25px;
+}
+
+#heading1 {
+  font-family: 'Crete Round', serif;
+  color: #133436;
+  font-size: 1.5em;
+  margin-bottom: px;
+  text-transform: none;
+}
+
+#heading2 {
+  font-family: 'ABeeZee', sans-serif;
+  color: #cf9d04;
+  font-size: 4em;
+  margin-top: 50px;
+  text-transform: none;
+}
+
+.heading-text {
+  text-align: center;
+}
+
+
+img {
+  display: block;
+  margin: auto;
+
+}
+  .section-container {
+    margin-top: 30px;
+    margin-bottom:100px;
+  }
+
+  a {
+    color: #c70015;
+    text-transform: uppercase;
+    font-family: 'Crete Round-italic', sans-serif;
+  }
+.first-line::first-line {
+    color: #cf9d04;
+  }
+
+.sample-background {
+  border-style: solid;
+  border-color: #c70015;
+  padding: 10px;
+}
+
+.about-background {
+  border-style: ridge;
+  border-color: #133436
+  padding: 5px;
+  background-color: #ffffff
+}
+
+.link-border:hover {
+  border-style: solid;
+  border-color: #cf9d04;
+  padding: 2px;
+  color: #133436
 }
