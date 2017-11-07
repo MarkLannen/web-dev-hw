@@ -15,18 +15,18 @@
 
 ### Color Palette
 
+I pulled these colors from a project that I did in my photoshop class where, serendipitously, I had to design a book cover and had already chosen the new Pullman book and had already thought through this color palette. The book has a classical location setting (Oxford) but could also be classified as a work of fantasy and I thought these muted colors, with one contrasting strong color (the red) evoked the mood of the book.
+
 ![dark-gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-001816-8.png)
 ![turqoise](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b1e8eb-8.png)
 ![gray](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-b7b7b7-8.png)
 ![red](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/color_pallete-c70015-8.png)
 
-<<<<<<< HEAD
 I'll use the gray for headings and the dark blue/green for paragraph text.
 
 I'll use the turquoise and red for accents/hover states etc...
 =======
-I'll use the gray for headings and the dark blue/green for paragraph text. 
->>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
+I'll use the gray for headings and the dark blue/green for paragraph text.
 
 ### Imagery
 
@@ -36,12 +36,18 @@ Phillip Pullmand has some excellent illustrations on his website. I'll use their
 ![skull](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/skull.JPG)
 ![stone-steps](https://github.com/MarkLannenUM/web-dev-hw/blob/master/project-3/stone-steps.JPG)
 
-<<<<<<< HEAD
 I'll also use a cover that I created for the book in my Photoshop class.
 
 
-=======
->>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
 ### fonts
 
 I have chosen Crete Rounded for headings, and ABeezee for parapraph text.
+I chose those two fonts because they work together on a very fundamental level being serif and sans-serif, respectively. I liked Crete-Round for headings as it is a softer serif font that I think works well for headings in a page about a work of modern fiction. Even though the book has a classical setting (Oxford) it's themes are quite modern and Crete Round definitely has a modern, minimalist look and works well in this case. I chose Abeezee as a sans-serif paragraph text as it is very easy to read online and the curved bowls, ligatures and terminals etc... go very well with Crete Round.
+
+---
+
+11-6-2017. Finally ready to turn this in. I'm happy with how the colors, fonts and images etc... look in and of themselves, but I am looking forward to next week when I can work on the layout as there are obviously some issues that need addressing.  :)
+
+---
+
+Having trouble turning this in. I have pushed the project via githu desktop, but the updated version is not showing up on my live site.  

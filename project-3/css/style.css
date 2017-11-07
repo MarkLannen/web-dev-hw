@@ -1,34 +1,22 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 1c36c6db4c2bc870d5ab730de99cc1f489be159f
 
 body {
   background: #e9e4e4;
   font-size: 16px;
   line-height: 1.45em;
-<<<<<<< HEAD
-=======
-}
-
-=======
->>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
-* {
-  font-family: 'Abeezee', serif;
->>>>>>> 1c36c6db4c2bc870d5ab730de99cc1f489be159f
 }
 
 p {
-  font-family: 'Crete Round', serif;
+  font-family: 'ABeeZee', sans-serif;
   color: #133436;
+  padding: 10px;
 }
 
 p::first-letter {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 h1 {
-  font-family: 'Crete Round', sans-serif;
+  font-family: 'Crete Round', serif;
   color: #133436;
   margin-bottom: 50px;
   margin-top: 20px;
@@ -38,7 +26,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Crete Round', sans-serif;
+  font-family: 'Crete Round', serif;
   font-size: 1.25em;
   color: #cf9d04;
   margin-bottom: 30px;
@@ -65,11 +53,9 @@ h2 {
   text-align: center;
 }
 
-
 img {
   display: block;
   margin: auto;
-
 }
   .section-container {
     margin-top: 30px;
@@ -104,25 +90,4 @@ img {
   padding: 2px;
   color: #133436
 }
-<<<<<<< HEAD
-#heading1 {
-  font-family: 'Crete Rounded', serif;
-  color: #001816;
-  font-size: 1.5em;
-  }
-#heading2 {
-  font-family: 'ABeeZee', sans-serif;
-  color: #cf9d04;
-  font-size: 4em;
-  }
-
-.heading-text {
-  text-align: center;
-  }
-
-  img {
-    display: block;
-    margin: auto;
-  }
-=======
->>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
+.button
