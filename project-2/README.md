@@ -10,6 +10,10 @@
 1. Corresponded with Justine on Slack and finally worked out how to submit homework.  :)
 2. Updated README.md file and published to github.
 3. Had cursory search around internet to get idea for what images/videos I can use as part of instructable.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
 
 ## Sunday, Oct. 8 updates:
 1. Added images and other required html to instructions page.
@@ -17,9 +21,14 @@
 3. Atom crashes regularly (sometimes every few minutes) which is extremely frustrating as it can take a very long time to get anything done.
 4. Still not really clear exactly how projects get submitted. Have made an appointment to see Justine tomorrow for more help.
 5. Finished form will all required elements on 10/11/17
+<<<<<<< HEAD
+=======
+>>>>>>> 9ed98f3d0d273a219166aa2e116cd0f021e132fc
+=======
 
 ## Sunday, Oct. 17 updates:
 1. Created the 'about' and 'more-info' pages
 2. Added styling in the form of an internal styles to the elements on these pages.
 3. Added meta descriptions to the two new pages.
 4. Linked to an amateur documentary for the 'more-info' page.
+>>>>>>> bf70e7dd22e05db9b8f5982714751ef83b87c1c2
