@@ -16,10 +16,11 @@ header {
 }
 
 .site-logo {
+    position: relative;
     font-size: 2.5em;
     float: right;
     margin-right: 0.25em;
-    margin-bottom: 5em;
+    margin-bottom: 1em;
 }
 
 /* Set the layout of the menu: */
@@ -91,6 +92,7 @@ p {
   font-family: 'ABeeZee', sans-serif;
   color: #133436;
   padding: 10px;
+  width: 50%;
 }
 
 p::first-letter {
@@ -119,7 +121,10 @@ h2 {
   font-family: 'Crete Round', serif;
   color: #133436;
   font-size: 1.5em;
-text-transform: none;
+  text-transform: none;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e9e9e9;
 }
 
 #heading2 {
@@ -130,10 +135,13 @@ text-transform: none;
   line-height: 1em;
   margin-bottom: 10px;
   margin-top: 10px;
+  background-color: none;
 }
 
 .heading-text {
   text-align: center;
+  overflow: hidden;
+
 }
 
 img {
@@ -174,3 +182,53 @@ img {
   color: #133436
 }
 .button
+/* About page aside */
+
+
+aside .content-side {
+    float: right;
+    margin: 2em;
+    margin-top: 4em;
+    padding: 0;
+    width: 25%;
+    color: #133436;
+    background-color: #F15F50;
+    font-weight: lighter;
+}
+
+aside .aside-head {
+    font-size: 2em;
+    text-align: center;
+    padding: 1em;
+    background-color: #fff;
+}
+
+aside .aside-text {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+aside .aside-text p {
+    font-style: italic;
+    padding: 0.25em 1em;
+    margin: 0;
+    text-align: left;
+    color: #133436;
+}
+
+aside .aside-img {
+   border: 3px dashed #27435C;
+   border-radius: 500px;
+   background-color: #fff;
+   width: 200px;
+   height: 200px;
+   margin: auto;
+   margin-bottom: 2em;
+}
+
+aside .aside-img img {
+    display: block;
+    padding: 10px;
+    position: relative;
+    margin: 1.5em auto;
+}
