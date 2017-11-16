@@ -105,6 +105,7 @@ h1 {
   margin-top: 20px;
   background-color: #b1e8eb;
   padding: 15px;
+  line-height: 1.4em;
 
 }
 
@@ -114,6 +115,7 @@ h2 {
   color: #cf9d04;
   margin-bottom: 30px;
   text-indent: 25px;
+  line-height: 1.4em;
 }
 
 #heading1 {
@@ -261,14 +263,20 @@ aside .aside-text p {
 /*Sample page*/
 .column1 {
   float: left;
-  width: 60%;
-  margin: 10px;
+  width: 660px;
+  margin: 20px;
+  border-radius: 15px;
+  clear: left;
 }
 
 .column2 {
   float: right;
-  width: 35%;
-  margin: 10px;
+  width: 300px;
+  margin: 20px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 15px;
+
 }
 
 

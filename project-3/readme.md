@@ -50,4 +50,19 @@ I chose those two fonts because they work together on a very fundamental level b
 
 ---
 
-Having trouble turning this in. I have pushed the project via githu desktop, but the updated version is not showing up on my live site.  
+Having trouble turning this in. I have pushed the project via githu desktop, but the updated version is not showing up on my live site.
+
+---
+I'm handing in the final project now, but I am mostly dissatisfied with the results. There are obvious layout issues, including the hover state on the Illustrations tab. The text disappears when I hover over it and I have tried everything I could think of but have not been able to fix it.
+
+I've had some success getting the home page to look how I want it to. But as far as the other pages go, I have technically fulfilled all the criteria for the assignment, but I am a bit ashamed at how poor it looks. Below are some examples of things that I tried (sometimes for hours) to fix but just could not work it out.
+
+*Some of my images are displaying beyond the borders of their container box. The overflow: hidden trick worked on one but not another, and I cannot see what the difference in the code between the two is. They just display differently.
+
+*My two column layouts look very messy and I just struggled to work out how to style them properly. I think I just don't have enough of an understanding of how layout works to be able to effect the changes I wanted.
+
+*The heading in my sample page isn't displaying the line-height property that I gave it, so when the browser is resized it collapses on itself. Again, I tried for quite a long time to find a solution but could not work out what was going wrong.
+
+*Lastly, my two column layout on the Sample page doesn't look good or work very well. I experimented with setting pixel widhts, percentage widths etc... but no matter what I tried I got a wide gap between the two columns, and they collapse much sooner than I would expece when the browser window is minimized.
+
+*All in all this was a very frustrating week and if it is possible I would somehow like the chance to work with somebody on all of these issues, or at least get some written feedback/instructions. These are some fundamental concepts and I don't think I have an adequate grasp on them to be able to move on.
