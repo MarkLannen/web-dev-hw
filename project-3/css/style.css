@@ -124,6 +124,7 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   background-color: #e9e9e9;
+  padding: 15px;
 }
 
 #heading2 {
@@ -257,6 +258,21 @@ aside .aside-text p {
     text-align: left;
     color: #133436;
 }
+/*Sample page*/
+.column1 {
+  float: left;
+  width: 60%;
+  margin: 10px;
+}
+
+.column2 {
+  float: right;
+  width: 35%;
+  margin: 10px;
+}
+
+
+
 /*
 aside .aside-img {
    border: 3px dashed #27435C;
