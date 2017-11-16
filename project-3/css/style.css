@@ -270,7 +270,7 @@ aside .aside-text p {
 }
 
 .column2 {
-  float: right;
+  float: left;
   width: 300px;
   margin: 20px;
   background-color: #fff;
