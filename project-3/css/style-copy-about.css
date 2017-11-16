@@ -87,7 +87,6 @@ header {
 }
 
 
-
 p {
   font-family: 'ABeeZee', sans-serif;
   color: #133436;
@@ -212,7 +211,7 @@ img {
 
 .main-container h1 {
     text-align: center;
-    font-weight: lighter;
+    font-weight: ;
     letter-spacing: 0.4em;
     word-spacing: 1em;
     padding: 2em 0 1em 0;
@@ -225,7 +224,7 @@ img {
     padding: 1em 2em;
     text-indent: 1.5em;
     line-height: 1.5em;
-    text-align: justify;
+    text-align: left;
     color: #133436;
 }
 
@@ -236,7 +235,7 @@ img {
     padding: 0;
     width: 25%;
     color: #fff;
-    font-weight: lighter;
+    font-weight: ;
 }
 
 aside .aside-head {
