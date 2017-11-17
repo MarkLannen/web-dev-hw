@@ -70,6 +70,7 @@ header {
 
 .dropdown:hover .dropdown-content {
     display: block;
+    color: #fff;
 }
 
 /* Style dropdown item display: */
@@ -190,7 +191,10 @@ img {
   padding: 2px;
   color: #133436
 }
-.button
+.sample-side-nav {
+  font-size: 1.4em;
+  line-height: 1.4em;
+}
 
 /* About page aside */
 
@@ -277,7 +281,28 @@ aside .aside-text p {
   background-color: #fff;
   padding: 15px;
   border-radius: 14px;
+}
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 250px;
+  border: 1px solid #c70015;
+  padding: 15px;
+}
+
+li a{
+  display: block;
+  width: 225px;
+  text-align: center;
+  padding: 1em;
+  background-color: #e9e9e9;
+  border-bottom: 1px solid #c70015;
+}
+
+li a:hover {
+  background-color: #fff;
 }
 
 
