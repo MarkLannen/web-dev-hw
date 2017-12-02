@@ -26,4 +26,6 @@ A multitude of different screen sizes exist across phones, "phablets," tablets, 
 
 ## Colors:
  Text: #09161f
- Background colors: light greenish-grey: #b8baa8; salmon: #d28877; maroon: #733136; 
+ Background colors: light greenish-grey: #b8baa8; salmon: #d28877; maroon: #733136; very dark border color: #010909
+
+ 
