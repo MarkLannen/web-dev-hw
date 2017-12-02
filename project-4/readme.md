@@ -28,4 +28,4 @@ A multitude of different screen sizes exist across phones, "phablets," tablets, 
  Text: #09161f
  Background colors: light greenish-grey: #b8baa8; salmon: #d28877; maroon: #733136; very dark border color: #010909
 
-![Project 4 colors]
+![Project 4 colors](https://github.com/MarkLannenUM/web-dev-hw/project-4/project_4-colors.png)
