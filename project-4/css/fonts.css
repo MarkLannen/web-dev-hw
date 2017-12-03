@@ -1,0 +1,48 @@
+/*fonts*/
+@font-face {
+    font-family: 'Bitter-Regular';
+    src:
+        url('../fonts/Bitter-Bold.ttf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitter-Italic';
+    src:
+        url('../fonts/Bitter-Italic.ttf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bitter-Regular';
+    src:
+        url('../fonts/Bitter-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Bold';
+    src:
+        url('../fonts/Raleway-Bold.ttf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Light';
+    src:
+        url('../fonts/Raleway-Light.ttf') format('opentype');
+    font-weight: light;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src:
+        url('../fonts/Raleway-Regular.ttf') format('opentype');
+    font-weight: regular;
+    font-style: normal;
+}
