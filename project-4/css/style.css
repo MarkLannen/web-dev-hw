@@ -87,7 +87,17 @@ aside {
   padding: 1em;
 }
 
+.layout-examples {
+  background-color: #b8baa8;
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.layout-examples img {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em;
+}
 /*Media Queries*/
 
 @media screen and (min-width: 300px) {
