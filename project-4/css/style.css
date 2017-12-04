@@ -1,12 +1,68 @@
+/*Main*/
+main {
+
+}
+
 /* Header with logo*/
+
 header {
+
   background-color: #b8baa8;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 auto;
+  margin: auto;
+  padding: 1em;
+}
+
+/* Navigation*/
+
+.menu-section {
+  display: flex;
+  justify-content: space-start;
+  background-color: #09161f;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+  }
+
+.menu li {
+  font-family: Raleway-Bold, sans-serif;
+  color: #fff;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+/*Body*/
+
+body {
+  font-family: Bitter-Regular, sans-serif;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
 }
 
 img {
   margin: 15 0;
+}
+
+h1 {
+  font-family: Raleway-Bold;
+}
+
+
+
+
+
+/*Media Queries*/
+@media screen and (min-width: 300px) {
+.menu ul{
+  display: flex;
+  }
+
 }
