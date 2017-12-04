@@ -53,24 +53,45 @@ img {
 
 h1 {
   font-family: Bitter-Bold; serif;
-  margin: 1em;
+  font-size: 2.4em;
+  margin: .5em;
+}
+
+p {
+  font-family: Raleway-Regular, sans-serif;
 }
 
 /*Main*/
 main {
+
+}
+
+.main-content {
   background-color: #d28877;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1em;
+}
+
+blockquote {
+  background-color: #09161f;
+  color: #fff;
+  padding: 2em;
+}
+
+aside {
+  background-color: #733136;
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1em;
 }
 
 
-
-
-
-
-
 /*Media Queries*/
+
 @media screen and (min-width: 300px) {
 .menu ul{
   display: flex;
   }
-
 }
