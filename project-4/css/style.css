@@ -52,8 +52,16 @@ img {
 }
 
 h1 {
-  font-family: Raleway-Bold;
+  font-family: Bitter-Bold; serif;
+  margin: 1em;
 }
+
+/*Main*/
+main {
+  background-color: #d28877;
+}
+
+
 
 
 
