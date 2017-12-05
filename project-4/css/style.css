@@ -11,6 +11,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: auto;
   padding: 1em;
 }
 
@@ -22,12 +23,16 @@
   background-color: #09161f;
 }
 
-.menu ul {
+nav {
+
   display: flex;
+  flex-direction: row;
+    width: 100%;
   justify-content: space-around;
   }
 
-.menu li {
+.menu a {
+    flex-grow: 1;
   font-family: Raleway-Bold, sans-serif;
   color: #fff;
   list-style-type: none;
@@ -44,12 +49,12 @@ body {
 a {
   color: #fff;
   text-decoration: none;
+  padding: .5em;
 }
 
  a:hover {
    background-color: #fff;
    color: #09161f;
-   padding: .5em;
  }
 
  q {
@@ -83,10 +88,15 @@ p {
   padding: 1em;
 }
 
+.main-content q {
+    display: inline;
+}
+
 
 .flexbox {
   background-color: #733136;
   color: #fff;
+  flex-grow: 1;
   display: flex;
   flex-wrap: wrap;
   padding: 1em;
@@ -107,17 +117,17 @@ p {
 
 
 @media screen and (max-width: 480px) {
-  .logo {width: 100%; order: 1;}
+  header {width: 100%; order: 1;}
   .main-content {width: 100%; order: 2;}
   .flexbox {width: 100%; order: 3;}
-  .menu-section {width: 100%; order: 4;}
+  nav {width: 100%; order: 4;}
   .layout-examples {width: 100%; order: 5;}
 }
 
   @media screen and (min-width: 690px) {
-    .logo {width: 100%; order: 1;}
-    .main-content {width: 67%; order: 4;}
-    .flexbox {width: 33%; order: 3;}
+    .logo {width: 100%; order: -99;}
+    .main-content {width: 25%; order: 4; flex-grow: 3;}
+    .flexbox {width: 25%; order: 3; flex-grow: 1;}
     .menu-section {width: 100%; order: 2;}
     .layout-examples {width: 100%; order: 5;}
 }
