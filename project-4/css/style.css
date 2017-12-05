@@ -127,7 +127,7 @@ p {
 
   @media screen and (min-width: 690px) {
     .logo {width: 100%; order: -99;}
-    .main-content {width: 25%; order: 4; flex-grow: 4;}
+    .main-content {width: 25%; order: 4; flex-grow: 16;}
     .flexbox {width: 25%; order: 3; flex-grow: 1;
      border: 5px solid #fff; font-size: 1.5em;}
     .menu-section {width: 100%; order: 2;}
