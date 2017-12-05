@@ -64,6 +64,7 @@ a {
    width: 30%;
    padding: 1em;
    min-width: 200px;
+   align: right;
 
  }
 
@@ -126,16 +127,19 @@ p {
 
   @media screen and (min-width: 690px) {
     .logo {width: 100%; order: -99;}
-    .main-content {width: 25%; order: 4; flex-grow: 3;}
-    .flexbox {width: 25%; order: 3; flex-grow: 1;}
+    .main-content {width: 25%; order: 4; flex-grow: 4;}
+    .flexbox {width: 25%; order: 3; flex-grow: 1;
+     border: 5px solid #fff; font-size: 1.5em;}
     .menu-section {width: 100%; order: 2;}
     .layout-examples {width: 100%; order: 5;}
 }
 
   @media screen and (min-width: 980px) {
     .logo {width: 100%; order: 2;}
-    .main-content {width: 67%; order: 4;}
-    .flexbox {width: 33%; order: 3;}
+    .main-content {width: 67%; order: 3;}
+    .flexbox {width: 33%; order: 4;
+    border: none; font-size: 1em;}
     .menu-section {width: 100%; order: 1;}
-    .layout-examples {width: 100%; order: 5;}
+    .layout-examples {width: 100%; order: 5;
+    justify-content: space-around;}
 }
