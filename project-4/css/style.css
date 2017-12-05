@@ -1,7 +1,12 @@
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /* Header with logo*/
 
-header {
-
+.logo {
+  width: 100%;
   background-color: #b8baa8;
   display: flex;
   align-items: center;
@@ -13,6 +18,7 @@ header {
 /* Navigation*/
 
 .menu-section {
+  width: 100%;
   display: flex;
   justify-content: space-start;
   background-color: #09161f;
@@ -32,11 +38,6 @@ header {
 }
 
 /*Body*/
-
-.main-container {
-  display: flex;
-  flex-wrap: wrap;
-}
 
 body {
   font-family: Bitter-Regular, sans-serif;
@@ -108,4 +109,28 @@ p {
 .menu ul{
   display: flex;
   }
+}
+
+@media screen and (max-width: 480px) {
+  .logo {width: 100%; order: 1;}
+  .main-content {width: 100%; order: 2;}
+  .flexbox {width: 100%; order: 3;}
+  .menu-section {width: 100%; order: 4;}
+  .layout-examples {width: 100%; order: 5;}
+}
+
+  @media screen and (min-width: 690px) {
+    .logo {width: 100%; order: 1;}
+    .main-content {width: 67%; order: 4;}
+    .flexbox {width: 33%; order: 3;}
+    .menu-section {width: 100%; order: 2;}
+    .layout-examples {width: 100%; order: 5;}
+}
+
+  @media screen and (min-width: 980px) {
+    .logo {width: 100%; order: 2;}
+    .main-content {width: 67%; order: 4;}
+    .flexbox {width: 33%; order: 3;}
+    .menu-section {width: 100%; order: 1;}
+    .layout-examples {width: 100%; order: 5;}
 }
