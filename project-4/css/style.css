@@ -20,7 +20,6 @@
 .menu-section {
   width: 100%;
   display: flex;
-  justify-content: space-start;
   background-color: #09161f;
 }
 
@@ -54,6 +53,16 @@ a {
    padding: .5em;
  }
 
+ q {
+   background-color: #09161f;
+   color: #fff;
+   float: right;
+   width: 30%;
+   padding: 1em;
+   min-width: 200px;
+
+ }
+
 img {
   margin: 15 0;
 }
@@ -75,14 +84,6 @@ p {
   padding: 1em;
 }
 
-.quote {
-  background-color: #09161f;
-  color: #fff;
-  padding: 1em;
-  float: right;
-  width: 30%;
-  min-width: 200px;
-}
 
 .flexbox {
   background-color: #733136;
@@ -105,11 +106,6 @@ p {
 }
 /*Media Queries*/
 
-@media screen and (min-width: 300px) {
-.menu ul{
-  display: flex;
-  }
-}
 
 @media screen and (max-width: 480px) {
   .logo {width: 100%; order: 1;}
