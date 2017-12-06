@@ -60,7 +60,8 @@ a {
  q {
    background-color: #09161f;
    color: #fff;
-   float: right;
+   margin-left: auto;
+   order: 2;
    width: 30%;
    padding: 1em;
    min-width: 200px;
