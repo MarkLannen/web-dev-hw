@@ -136,9 +136,8 @@ p {
 
   @media screen and (min-width: 980px) {
     .logo {width: 100%; order: 2;}
-    .main-content {width: 67%; order: 3;}
-    .flexbox {width: 33%; order: 4;
-    border: none; font-size: 1em;}
+    .main-content {width: 67%; order: 3; font-size: 1.2em;}
+    .flexbox {width: 33%; order: 4; font-size: 1.2em;}
     .menu-section {width: 100%; order: 1;}
     .layout-examples {width: 100%; order: 5;
     justify-content: space-around;}
